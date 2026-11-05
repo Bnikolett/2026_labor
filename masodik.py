@@ -1,4 +1,7 @@
 #Ez a második labor feladatait tartalmazza
+import harmadik
+
+harmadik.lotto()
 
 felhasznalo_kora= int(15.65)
 felhasznalo_kora= int(input("Hány éves vagy: "))
